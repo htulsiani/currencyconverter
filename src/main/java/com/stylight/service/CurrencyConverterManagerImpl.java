@@ -37,7 +37,7 @@ public class CurrencyConverterManagerImpl implements CurrencyConverterManager {
 			from = "YEN";
 		}
 		
-		else if(source.equalsIgnoreCase(EURO)){
+		else if(source.equalsIgnoreCase(DOLLAR)){
 			from = "USD";
 		}
 		
